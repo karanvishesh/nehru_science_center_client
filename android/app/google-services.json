@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "547105056531",
+    "project_id": "nsc-ticketing-f96bf",
+    "storage_bucket": "nsc-ticketing-f96bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547105056531:android:899f1029924f0bef865ce6",
+        "android_client_info": {
+          "package_name": "com.example.nehru_science_center_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547105056531-hmc5r8akd0l6if02kg9jucaml9tqv1p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsTgVZ4VseomJl85gn9_c0fwiP-vWN9q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547105056531-hmc5r8akd0l6if02kg9jucaml9tqv1p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547105056531:android:3ea609c3a09d1237865ce6",
+        "android_client_info": {
+          "package_name": "com.shubham.nscadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547105056531-hmc5r8akd0l6if02kg9jucaml9tqv1p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsTgVZ4VseomJl85gn9_c0fwiP-vWN9q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547105056531-hmc5r8akd0l6if02kg9jucaml9tqv1p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
